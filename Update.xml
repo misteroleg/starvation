@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<sharpUpdate>
+	<update appId="LauncherAplicacion">
+		<version>2.0.0</version>
+		<url>https://github.com/misteroleg/starvation/blob/master/Launcher.exe</url>
+		<fileName>Launcher.exe</fileName>
+		<md5>33908710cfb7d59852fb788abfaea989</md5>
+		<description>Initial Update</description>
+		<launchArgs></launchArgs>
+	</update>
+</sharpUpdate>
